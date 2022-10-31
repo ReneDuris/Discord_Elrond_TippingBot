@@ -38,8 +38,16 @@ OTU5MDk3Mjc3MDI3MzUyNjE4.G5sCgl.ziC3-NBtDDJ1VKixbq4cdlyORKMSVJImi4VcC0
 .addChoices({name:'DOPE EAGLE',value:'DOPE-cc0890'},{name:'AVIATOR',value:'AVIA-efb152'},{name:'KAVARIIAN',value:'KVRIAN-436761'}))
 
 ```
+# STEP3 [INVITING BOT TO DISCORD SERVER]
+#### INVITE LINK - [DISCORD APPLICATIONS](https://discord.com/developers/applications)
+----------------------- ------------------------------------
+*THESE SCOPES NEEDS TO BE ALLOWED UPON CREATING INVITELINK FOR BOT!*
+- [x] **bot**
+- [x] **application.commands**
 
-# STEP2  [COMMANDS]
+----------------------------------------------------------------
+ 
+# FINAL STEPS  [COMMANDS]
 <!-- COMMANDS -->
 #### ONLY ADMINS
 - [x] **/generate** [Generate Pem Wallet](https://github.com/ReneDuris/Discord_Elrond_TippingBot/blob/main/png/generate_pem.png)
@@ -72,4 +80,4 @@ OTU5MDk3Mjc3MDI3MzUyNjE4.G5sCgl.ziC3-NBtDDJ1VKixbq4cdlyORKMSVJImi4VcC0
 *TABLE OF TOP REWARDED PEOPLE AND COUNT OF THEIR TOKENS.*
 
 ----------------------------------------------------------------
- 
+

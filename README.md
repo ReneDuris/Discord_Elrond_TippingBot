@@ -8,9 +8,10 @@ Admins can tip to their community with EGLD/ESDT/NFT.
 
 ![env](https://github.com/ReneDuris/Discord_Elrond_TippingBot/blob/main/png/.env.png?raw=true ".env FILE")
 ## TOKEN_ID
-![TOKEN_ID](https://github.com/ReneDuris/Discord_Elrond_TippingBot/blob/main/png/bot_token.png?raw=true "TOKEN_ID")
-## CLIENT_ID
-![CLIENT_ID](https://github.com/ReneDuris/Discord_Elrond_TippingBot/blob/main/png/client_ID.png?raw=true "CLIENT_ID")
+<img src="https://github.com/ReneDuris/Discord_Elrond_TippingBot/blob/main/png/bot_token.png?raw=true" width="856" height="395">
 
-## GUILD_ID
-![GUILD_ID](https://github.com/ReneDuris/Discord_Elrond_TippingBot/blob/main/png/guild_ID.png?raw=true "GUILD_ID")
+## CLIENT_ID - [DISCORD APPLICATIONS](https://discord.com/developers/applications)
+<img src="https://github.com/ReneDuris/Discord_Elrond_TippingBot/blob/main/png/client_ID.png?raw=true" width="586" height="353">
+
+## GUILD_ID - [DISCORD APPLICATIONS](https://discord.com/developers/applications)
+<img src="https://github.com/ReneDuris/Discord_Elrond_TippingBot/blob/main/png/guild_ID.png?raw=true" width="124" height="280">

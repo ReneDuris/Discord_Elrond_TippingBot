@@ -1,0 +1,22 @@
+{
+	"extends": [
+        "eslint:recommended",
+        "plugin:prettier/recommended"
+    ],
+	"env": {
+		"node": true,
+		"es6": true
+	},
+	"parserOptions": {
+		"ecmaVersion": 2021,
+        "sourceType": "module",
+        "parser":"babel-eslint"
+        
+	},
+    
+        
+     
+	"rules": {
+	
+	}
+}

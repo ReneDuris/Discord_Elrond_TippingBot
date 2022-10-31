@@ -33,11 +33,11 @@ export async function verifyESDT (ticker,amount){
         const secretKey = UserSecretKey.fromPem(pem, 0);
         const generatedAddress =secretKey.generatePublicKey().toAddress();
    
-        let tokens = await proxy.getFungibleTokenOfAccount(generatedAddress,ticker)
-        let properties = await proxy.getDefinitionOfFungibleToken(ticker)
-        let egldstate = await verifyEGLD(1 / 10**18)
+        let tokens = await proxy.getFungibleTokenOfAccount(generatedAddress,ticker);
+        let properties = await proxy.getDefinitionOfFungibleToken(ticker);
+        let egldstate = await verifyEGLD(1 / 10**18);
         const balance = tokens.balance.toNumber();
-        const decimals = properties.decimals
+        const decimals = properties.decimals;
         if (amount* 10**decimals <= balance && egldstate == true){
         return {
             state:true,
@@ -64,7 +64,7 @@ export async function verifyNFT (ticker,nonce){
         const secretKey = UserSecretKey.fromPem(pem, 0);
         const generatedAddress =secretKey.generatePublicKey().toAddress();
 
-        let egldstate = await verifyEGLD(1 / 10**18)
+        let egldstate = await verifyEGLD(1 / 10**18);
         let tokens = await proxy.getNonFungibleTokenOfAccount(generatedAddress,ticker,nonce);
         let supply = (tokens.supply).toNumber();
       if ( supply > 0 && egldstate == true){

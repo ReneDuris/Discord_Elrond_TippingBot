@@ -25,12 +25,12 @@ export async function GenerateTransaction(address,amount,token, ESDTNFT){
         if (ESDTNFT == "ESDT"){
             var value = 0;
             var data = "ESDTTransfer@"+Buffer.from(token, 'utf8').toString('hex')+"@"+numberToPaddedHex(amount);
-            var gas = 350000
+            var gas = 350000;
             var receiver = address;
         }else{
             var value = 0;
             var data = "ESDTNFTTransfer@"+Buffer.from(token, 'utf8').toString('hex')+"@"+amount +"@01"+"@"+address;
-            var gas = 438250
+            var gas = 438250;
             var receiver =account.address.bech32();
         }
         

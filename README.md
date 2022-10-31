@@ -42,10 +42,34 @@ OTU5MDk3Mjc3MDI3MzUyNjE4.G5sCgl.ziC3-NBtDDJ1VKixbq4cdlyORKMSVJImi4VcC0
 # STEP2  [COMMANDS]
 <!-- COMMANDS -->
 #### ONLY ADMINS
-- [x] /generate [Generate Pem Wallet](https://github.com/ReneDuris/Discord_Elrond_TippingBot/blob/main/png/generate_pem.png)
-- [x] /sendesdt [Send EGLD/ESDT](https://github.com/ReneDuris/Discord_Elrond_TippingBot/blob/main/png/send_esdt.png)
-- [x] /sendnft [Send NFT](https://github.com/ReneDuris/Discord_Elrond_TippingBot/blob/main/png/send_nft.png)
+- [x] **/generate** [Generate Pem Wallet](https://github.com/ReneDuris/Discord_Elrond_TippingBot/blob/main/png/generate_pem.png)
+----------------------- ------------------------------------
+*WALLET HAS TO BE GENERATED FIRST BEFORE ANYTHING ELSE IS MADE.*
+
+*WALLET CAN BE SET JUST ONCE*
+
+*AFTER WALLET IS GENERATED YOU ARE ABLE SEND FUNDS TO THE NEW GENERATED WALLET*
+
+----------------------------------------------------------------
+- [x] /**sendesdt** [Send EGLD/ESDT](https://github.com/ReneDuris/Discord_Elrond_TippingBot/blob/main/png/send_esdt.png)
+----------------------- ------------------------------------
+*SEND ANY ALLOWED TOKENS TO ANY USERS WHO GOT REGISTERED.*
+
+----------------------------------------------------------------
+- [x] **/sendnft** [Send NFT](https://github.com/ReneDuris/Discord_Elrond_TippingBot/blob/main/png/send_nft.png)
+----------------------- ------------------------------------
+*SEND ANY ALLOWED NFTs TO ANY USERS WHO GOT REGISTERED.*
+
+----------------------------------------------------------------
 #### COMMUNITY
-- [x] /register [Register your wallet](https://github.com/ReneDuris/Discord_Elrond_TippingBot/blob/main/png/register.png)
-- [x] /table [Top tipped users](https://github.com/ReneDuris/Discord_Elrond_TippingBot/blob/main/png/table.png)
+- [x] **/register** [Register your wallet](https://github.com/ReneDuris/Discord_Elrond_TippingBot/blob/main/png/register.png)
+----------------------- ------------------------------------
+*USER CAN REGISTER BY SPECIFYING THEIR BECH32 WALLET.*
+
+----------------------------------------------------------------
+- [x] **/table** [Top tipped users](https://github.com/ReneDuris/Discord_Elrond_TippingBot/blob/main/png/table.png)
+----------------------- ------------------------------------
+*TABLE OF TOP REWARDED PEOPLE AND COUNT OF THEIR TOKENS.*
+
+----------------------------------------------------------------
  
